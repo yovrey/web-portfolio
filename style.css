@@ -23,9 +23,12 @@ nav {
 }
 
 main {
-	background-color: #000315 !important;
+	min-height: 100vh;
+	background-image: url(./images/backgroundone.jpg);
+	background-size: 100%;
+	background-position: center;
+	text-align: center;
 }
-
 
 #greeting	{
 	color: #e6b800;
@@ -35,7 +38,7 @@ main {
 #docket {
 	color: white;
 	padding-top: 2rem;
-	padding-bottom: 10rem;
+	padding-bottom: 5rem;
 }
 
 
@@ -47,6 +50,7 @@ main {
 #aboutme {
 	color: whitesmoke;
 	padding: 3rem;
+	margin-bottom: 3rem;
 }
 
 #aboutme-intro {
@@ -55,7 +59,7 @@ main {
 }
 
 #photo {
-	background: #00051C;
+	background: #000315;
 	color: whitesmoke;
 	padding-top: 1rem;
 	display: flex;
@@ -65,8 +69,8 @@ main {
 
 #work-experience {
 	color: #e6b800;
-	padding-top: 5rem;
-	margin-top: 5rem;
+	padding-top: 1rem;
+	margin-top: 3rem;
 	margin-bottom: 5rem;
 }
 
@@ -84,11 +88,12 @@ main {
 }
 
 #tools {
-	padding: 5rem;
+	padding: 1rem;
 	color: #e6b800;
 }
 
 #toolone {
+	border-radius: 20px;
 	background: #000315;
 }
 
@@ -98,12 +103,12 @@ h5 {
 
 .contactform {
 	color: #e6b800;
-	padding-top: 5rem;
+	padding-top: 2rem;
 	margin-bottom: 3rem;
 }
 
 #contactform {
-	background: #AFA61A;
+	background: #163049;
 	margin-bottom: 5rem;
 	border-radius: 20px;
 }
