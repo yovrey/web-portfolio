@@ -1,0 +1,115 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+	background-image: url('./images/turtle.jpg');
+  	background-size: 100% 100%;
+}
+
+nav {
+	background-color: #01157B;
+
+}
+
+main {
+	background-color: #00072B !important;
+}
+
+
+#greeting	{
+	color: #e6b800;
+	padding-top: 7rem;
+}
+
+#docket {
+	color: white;
+	padding-top: 2rem;
+	padding-bottom: 10rem;
+}
+
+.background {
+	margin: 100px;
+	min-height: 100vh;
+	background-image: url(https://c4.wallpaperflare.com/wallpaper/43/1003/707/anime-your-name-kimi-no-na-wa-mitsuha-miyamizu-wallpaper-preview.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.container-bg {
+	background-color: rgba(0, 0, 0, 0.5);
+	min-height: 100vh;
+}
+
+#aboutme {
+	color: whitesmoke;
+	padding: 3rem;
+}
+
+#aboutme-intro {
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+#photo {
+	background: #010935;
+	color: whitesmoke;
+	padding-top: 1rem;
+	display: flex;
+  	justify-content: center;
+}
+
+#work-experience {
+	color: #e6b800;
+	padding-top: 5rem;
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}
+
+#work-title {
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}
+
+#workone {
+	color: #e6b800;
+}
+
+#work-description {
+	color: white;
+}
+
+#tools {
+	padding: 5rem;
+	color: #e6b800;
+}
+
+#toolone {
+	background: #00072B;
+}
+
+h5 {
+	color: floralwhite;
+}
+
+.contactform {
+	color: #e6b800;
+	padding-top: 5rem;
+	margin-bottom: 3rem;
+}
+
+#contactform {
+	background: #AFA61A;
+}
+
+
+
+
+
