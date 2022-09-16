@@ -64,6 +64,7 @@ main {
 	padding-top: 1rem;
 	display: flex;
   	justify-content: center;
+  	border-radius: 20px;
 }
 
 #work-experience {
@@ -107,8 +108,23 @@ h5 {
 
 #contactform {
 	background: #AFA61A;
+	margin-bottom: 5rem;
+	border-radius: 20px;
 }
 
+footer {
+	padding: 0.7rem;
+	text-align: center;
+}
+
+.social-icon {
+	text-decoration: none;
+}	
+
+footer span {
+	margin-right: 0.5rem;
+	margin-left: 0.5rem;
+}
 
 
 
